@@ -22,8 +22,8 @@ Each puzzle gets its own Jupyter notebook that walks through the full solve: the
 
 | Puzzle | Month | Answer | Notebook |
 |--------|-------|:------:|----------|
-| 'Pent-Up' Frustration 3 / Knight Moves 7 | July 2026 | `33609` | [`knight_moves_7.ipynb`](./Knight-Moves-[Jul-2026].ipynb) |
-| Andy's Afternoon Amble | August 2026 | `11/20` | [`solution`](./Andys Afternoon Amble [Aug 2026].ipynb) |
+| 'Pent-Up' Frustration 3 / Knight Moves 7 | July 2026 | `33609` | [`solution`](./Knight-Moves-[Jul-2026].ipynb) |
+| Andy's Afternoon Amble | August 2026 | `11/20` | [`solution`](./Andys-Afternoon-Amble-[Aug-2026].ipynb) |
 
 *(more coming as the months roll in)*
 
